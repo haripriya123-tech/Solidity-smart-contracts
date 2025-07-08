@@ -132,6 +132,6 @@ A blockchain-powered supply chain application for tracking product flow from man
 ## 📫 Contact
 
 Feel free to connect with me:  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/haripriyachiravuri)  
-- 💻 [GitHub](https://github.com/haripriya123-tech)  
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/haripriyachiravuri)  
+- 💻 [GitHub] (https://github.com/haripriya123-tech)  
 - 📧 Email: haripriyachiravuri@gmail.com
